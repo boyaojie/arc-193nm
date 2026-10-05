@@ -1,0 +1,15 @@
+.venv/
+_pycache_/
+*.pyc
+.idea/
+fig/*.png
+fig/*.pdf
+dataset.zip
+dataset.npz
+*.zip
+*.npz
+.venv/
+_pycache_/
+*.pyc
+.idea/
+fig/
